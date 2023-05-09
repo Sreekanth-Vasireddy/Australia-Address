@@ -2,6 +2,7 @@
 
 
 # Description
+This dataset contains the list of addresses in Australia including geocodes (latitude and longitude). 
 This is cleaned data from ,kaggle dataset "OpenAddresses (http://openaddresses.io)",specific to Australia .
 The orginal dataset has missing values and unnecessary columns,cleaned to more usable format.
 
